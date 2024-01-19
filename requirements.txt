@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+motor==2.5.1
+python-decouple==3.6
